@@ -1,3 +1,3 @@
 # Curso git
-## CapÃ­tulo 1
-## Capítulo 2
+## Tema 1
+## Tema 2

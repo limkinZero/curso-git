@@ -1,2 +1,2 @@
 # Curso git
-## Capítulo 1
+## CapÃ­tulo 1
